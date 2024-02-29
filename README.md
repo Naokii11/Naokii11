@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Naokii11
+- 👀 I’m interested in algorithm, ia and whatever sutf about technolgy.
+- 🌱 I’m currently learning c++, and i know someting about python.
+- 📫 How to reach me: jmatheus341@gmail.com or joao.8176272@edu.univali.br
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i have adhd.
