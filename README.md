@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning c++, and i know someting about python.
 - 📫 How to reach me: jmatheus341@gmail.com or joao.8176272@edu.univali.br
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i have adhd.
